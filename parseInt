@@ -1,0 +1,2 @@
+rl.on('line', (input) => {
+    const guess = parseInt(input);
